@@ -1,6 +1,7 @@
 package com.meum.web.jdbc;
 
 public class Student {
+	//The Student fields
 	private int id;
 	private String firstName;
 	private String lastName;
